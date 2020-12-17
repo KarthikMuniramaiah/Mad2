@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Mad2a</string>
+    <string-array name="word_array">
+        <item>Hello</item>
+        <item>Goodbye</item>
+        <item>Good Evening</item>
+        <item>Good Night</item>
+        <item>Please</item>
+        <item>Thank You</item>
+        <item>Sorry</item>
+        <item>It\'s Okay</item>
+        <item>It\'s Good</item>
+        <item>We</item>
+        <item>You</item>
+        <item>Mr.</item>
+        <item>Miss</item>
+        <item>Red</item>
+        <item>Black</item>
+        <item>Blue</item>
+        <item>Yellow</item>
+        <item>Bread</item>
+        <item>Wine</item>
+        <item>Chicken</item>
+        <item>Rice</item>
+    </string-array>
+</resources>
